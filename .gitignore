@@ -1,0 +1,24 @@
+# Diretórios de cache do Python
+__pycache__/
+
+# Arquivos compilados do Python
+*.pyc
+
+# Arquivos de serialização (pickle)
+*.pkl
+
+# Arquivos de log
+*.log
+
+# Arquivos CSV (mantidos localmente, mas não versionados)
+*.csv
+
+# Checkpoints automáticos do Jupyter
+*.ipynb_checkpoints/
+
+# Ambiente virtual
+venv/
+
+# Arquivo oculto do macOS
+.DS_Store
+
